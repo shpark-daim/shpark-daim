@@ -4,6 +4,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/shpark-daim/shpark-daim/pull/1) in [shpark-daim/shpark-daim](https://github.com/shpark-daim/shpark-daim)
+2. 💪 Opened PR [#1](https://github.com/shpark-daim/shpark-daim/pull/1) in [shpark-daim/shpark-daim](https://github.com/shpark-daim/shpark-daim)
 <!--END_SECTION:activity-->
 
 ---
