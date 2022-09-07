@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Hello 👋
 
 ---
 ### :zap: Recent Activity
